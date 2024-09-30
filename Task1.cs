@@ -9,19 +9,15 @@ internal class Program
 static void Main(string[] args)
 {
 Console.ForegroundColor = ConsoleColor.Green;
-Console.WriteLine("Я сойду и намечу");
+Console.WriteLine("Оковы");
 
 Console.WriteLine();
 
 Console.ForegroundColor = ConsoleColor.Yellow;
-Console.WriteLine("Я сойду и намечу");
-Console.WriteLine("Мой вечерний путь.");
-Console.WriteLine("Выходи навстречу —");
-Console.WriteLine("В высоте отдохнуть.");
-Console.WriteLine("Полюби мои зори —");
-Console.WriteLine("Знак моей любви.");
-Console.WriteLine("И в свободное море");
-Console.WriteLine("Навсегда плыви.");
+Console.WriteLine("Мне наконец свободу дали,");
+Console.WriteLine("Но даже когда крылья воспряли,");
+Console.WriteLine("Ноги, объятые цепями,");
+Console.WriteLine("Ведут на дно с подводными камнями.");
 
 Console.ResetColor();
 
